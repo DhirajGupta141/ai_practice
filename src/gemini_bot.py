@@ -22,7 +22,6 @@ config = types.GenerateContentConfig(
     top_k=40,
     max_output_tokens=2048,
 )
-
 # get the model list available in the perticular API 
 # models = client.models.list()
 # for m in models:
